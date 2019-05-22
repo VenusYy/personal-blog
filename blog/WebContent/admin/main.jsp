@@ -143,7 +143,7 @@
 	</div>
 </div>
 <div region="south" style="height: 25px;padding: 5px" align="center">
-	Copyright © 2017-2018 猿来入此
+	XJY个人博客系统
 </div>
 
 <div id="dlg" class="easyui-dialog" style="width:400px;height:200px;padding: 10px 20px"
